@@ -1,0 +1,21 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#16A34A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="hexagons" width="50" height="43.4" patternUnits="userSpaceOnUse">
+      <path d="M25 0 L50 14.4 L50 43.4 L25 28.9 L0 43.4 L0 14.4 Z" fill="none" stroke="rgba(255,255,255,0.1)"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="400" fill="url(#grad3)"/>
+  <rect width="800" height="400" fill="url(#hexagons)"/>
+  <circle cx="650" cy="200" r="100" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="150" cy="200" r="100" fill="rgba(255,255,255,0.1)"/>
+  <text x="400" y="180" font-family="Arial" font-size="48" fill="white" text-anchor="middle" font-weight="bold">
+    Web Development Blog
+  </text>
+  <text x="400" y="240" font-family="Arial" font-size="24" fill="rgba(255,255,255,0.8)" text-anchor="middle">
+    Best Practices &amp; Tips
+  </text>
+</svg> 
