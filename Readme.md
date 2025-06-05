@@ -69,11 +69,3 @@ A scalable full-stack blog platform built with **TypeScript**, **Next.js**, **Re
 /utils           # Utility functions
 /public          # Static assets
 ```
-
-## Contributing
-
-Contributions are welcome! Please open issues or submit pull requests for improvements.
-
-## License
-
-This project is licensed under the MIT License. 
